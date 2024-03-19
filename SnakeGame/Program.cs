@@ -6,7 +6,7 @@ namespace SnakeGame
 {
     class Program
     {
-        static int width = 40;
+        static int width = 400;
         static int height = 20;
         static int score = 0;
         static int delay = 100;
